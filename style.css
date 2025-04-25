@@ -6,7 +6,7 @@
     --laranja-claro: #3b0552;
     --alto-contraste-fundo: #201f1f;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #7e0501;
+    --alto-contraste-link: #702d8f;
 }
 
 body {
@@ -25,7 +25,7 @@ section {
 
 t
 .nav-link {
-    color: #380303;
+    color: #531958;
     font-weight: 600;
 }
 
